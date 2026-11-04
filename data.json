@@ -1,0 +1,530 @@
+{
+  "description": "Annual recreational visits for the 10 national parks most visited in 2025, tracked consistently across 2016–2025.",
+  "source": "NPS Annual Visitation By Park report provided by the user.",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "parks": [
+    "Great Smoky Mountains",
+    "Zion",
+    "Yellowstone",
+    "Grand Canyon",
+    "Yosemite",
+    "Rocky Mountain",
+    "Acadia",
+    "Grand Teton",
+    "Olympic",
+    "Glacier"
+  ],
+  "data": [
+    {
+      "year": 2016,
+      "park": "Great Smoky Mountains",
+      "visitors": 11312786
+    },
+    {
+      "year": 2016,
+      "park": "Zion",
+      "visitors": 4295127
+    },
+    {
+      "year": 2016,
+      "park": "Yellowstone",
+      "visitors": 4257177
+    },
+    {
+      "year": 2016,
+      "park": "Grand Canyon",
+      "visitors": 5969811
+    },
+    {
+      "year": 2016,
+      "park": "Yosemite",
+      "visitors": 5028868
+    },
+    {
+      "year": 2016,
+      "park": "Rocky Mountain",
+      "visitors": 4517585
+    },
+    {
+      "year": 2016,
+      "park": "Acadia",
+      "visitors": 3303393
+    },
+    {
+      "year": 2016,
+      "park": "Grand Teton",
+      "visitors": 3270076
+    },
+    {
+      "year": 2016,
+      "park": "Olympic",
+      "visitors": 3390221
+    },
+    {
+      "year": 2016,
+      "park": "Glacier",
+      "visitors": 2946681
+    },
+    {
+      "year": 2017,
+      "park": "Great Smoky Mountains",
+      "visitors": 11338893
+    },
+    {
+      "year": 2017,
+      "park": "Zion",
+      "visitors": 4504812
+    },
+    {
+      "year": 2017,
+      "park": "Yellowstone",
+      "visitors": 4116524
+    },
+    {
+      "year": 2017,
+      "park": "Grand Canyon",
+      "visitors": 6254238
+    },
+    {
+      "year": 2017,
+      "park": "Yosemite",
+      "visitors": 4336890
+    },
+    {
+      "year": 2017,
+      "park": "Rocky Mountain",
+      "visitors": 4437215
+    },
+    {
+      "year": 2017,
+      "park": "Acadia",
+      "visitors": 3509271
+    },
+    {
+      "year": 2017,
+      "park": "Grand Teton",
+      "visitors": 3317000
+    },
+    {
+      "year": 2017,
+      "park": "Olympic",
+      "visitors": 3401996
+    },
+    {
+      "year": 2017,
+      "park": "Glacier",
+      "visitors": 3305512
+    },
+    {
+      "year": 2018,
+      "park": "Great Smoky Mountains",
+      "visitors": 11421200
+    },
+    {
+      "year": 2018,
+      "park": "Zion",
+      "visitors": 4320033
+    },
+    {
+      "year": 2018,
+      "park": "Yellowstone",
+      "visitors": 4115000
+    },
+    {
+      "year": 2018,
+      "park": "Grand Canyon",
+      "visitors": 6380495
+    },
+    {
+      "year": 2018,
+      "park": "Yosemite",
+      "visitors": 4009436
+    },
+    {
+      "year": 2018,
+      "park": "Rocky Mountain",
+      "visitors": 4590493
+    },
+    {
+      "year": 2018,
+      "park": "Acadia",
+      "visitors": 3537575
+    },
+    {
+      "year": 2018,
+      "park": "Grand Teton",
+      "visitors": 3491151
+    },
+    {
+      "year": 2018,
+      "park": "Olympic",
+      "visitors": 3104455
+    },
+    {
+      "year": 2018,
+      "park": "Glacier",
+      "visitors": 2965309
+    },
+    {
+      "year": 2019,
+      "park": "Great Smoky Mountains",
+      "visitors": 12547743
+    },
+    {
+      "year": 2019,
+      "park": "Zion",
+      "visitors": 4488268
+    },
+    {
+      "year": 2019,
+      "park": "Yellowstone",
+      "visitors": 4020288
+    },
+    {
+      "year": 2019,
+      "park": "Grand Canyon",
+      "visitors": 5974411
+    },
+    {
+      "year": 2019,
+      "park": "Yosemite",
+      "visitors": 4422861
+    },
+    {
+      "year": 2019,
+      "park": "Rocky Mountain",
+      "visitors": 4670053
+    },
+    {
+      "year": 2019,
+      "park": "Acadia",
+      "visitors": 3437286
+    },
+    {
+      "year": 2019,
+      "park": "Grand Teton",
+      "visitors": 3405614
+    },
+    {
+      "year": 2019,
+      "park": "Olympic",
+      "visitors": 3245806
+    },
+    {
+      "year": 2019,
+      "park": "Glacier",
+      "visitors": 3049839
+    },
+    {
+      "year": 2020,
+      "park": "Great Smoky Mountains",
+      "visitors": 12095720
+    },
+    {
+      "year": 2020,
+      "park": "Zion",
+      "visitors": 3591254
+    },
+    {
+      "year": 2020,
+      "park": "Yellowstone",
+      "visitors": 3806306
+    },
+    {
+      "year": 2020,
+      "park": "Grand Canyon",
+      "visitors": 2897098
+    },
+    {
+      "year": 2020,
+      "park": "Yosemite",
+      "visitors": 2268313
+    },
+    {
+      "year": 2020,
+      "park": "Rocky Mountain",
+      "visitors": 3305199
+    },
+    {
+      "year": 2020,
+      "park": "Acadia",
+      "visitors": 2669034
+    },
+    {
+      "year": 2020,
+      "park": "Grand Teton",
+      "visitors": 3289638
+    },
+    {
+      "year": 2020,
+      "park": "Olympic",
+      "visitors": 2499177
+    },
+    {
+      "year": 2020,
+      "park": "Glacier",
+      "visitors": 1698864
+    },
+    {
+      "year": 2021,
+      "park": "Great Smoky Mountains",
+      "visitors": 14161548
+    },
+    {
+      "year": 2021,
+      "park": "Zion",
+      "visitors": 5039835
+    },
+    {
+      "year": 2021,
+      "park": "Yellowstone",
+      "visitors": 4860242
+    },
+    {
+      "year": 2021,
+      "park": "Grand Canyon",
+      "visitors": 4532677
+    },
+    {
+      "year": 2021,
+      "park": "Yosemite",
+      "visitors": 3287595
+    },
+    {
+      "year": 2021,
+      "park": "Rocky Mountain",
+      "visitors": 4434848
+    },
+    {
+      "year": 2021,
+      "park": "Acadia",
+      "visitors": 4069098
+    },
+    {
+      "year": 2021,
+      "park": "Grand Teton",
+      "visitors": 3885230
+    },
+    {
+      "year": 2021,
+      "park": "Olympic",
+      "visitors": 2718925
+    },
+    {
+      "year": 2021,
+      "park": "Glacier",
+      "visitors": 3081656
+    },
+    {
+      "year": 2022,
+      "park": "Great Smoky Mountains",
+      "visitors": 12937633
+    },
+    {
+      "year": 2022,
+      "park": "Zion",
+      "visitors": 4692417
+    },
+    {
+      "year": 2022,
+      "park": "Yellowstone",
+      "visitors": 3290242
+    },
+    {
+      "year": 2022,
+      "park": "Grand Canyon",
+      "visitors": 4732101
+    },
+    {
+      "year": 2022,
+      "park": "Yosemite",
+      "visitors": 3667550
+    },
+    {
+      "year": 2022,
+      "park": "Rocky Mountain",
+      "visitors": 4300424
+    },
+    {
+      "year": 2022,
+      "park": "Acadia",
+      "visitors": 3970260
+    },
+    {
+      "year": 2022,
+      "park": "Grand Teton",
+      "visitors": 2806223
+    },
+    {
+      "year": 2022,
+      "park": "Olympic",
+      "visitors": 2432972
+    },
+    {
+      "year": 2022,
+      "park": "Glacier",
+      "visitors": 2908458
+    },
+    {
+      "year": 2023,
+      "park": "Great Smoky Mountains",
+      "visitors": 13297647
+    },
+    {
+      "year": 2023,
+      "park": "Zion",
+      "visitors": 4623238
+    },
+    {
+      "year": 2023,
+      "park": "Yellowstone",
+      "visitors": 4501382
+    },
+    {
+      "year": 2023,
+      "park": "Grand Canyon",
+      "visitors": 4733705
+    },
+    {
+      "year": 2023,
+      "park": "Yosemite",
+      "visitors": 3897070
+    },
+    {
+      "year": 2023,
+      "park": "Rocky Mountain",
+      "visitors": 4115837
+    },
+    {
+      "year": 2023,
+      "park": "Acadia",
+      "visitors": 3879890
+    },
+    {
+      "year": 2023,
+      "park": "Grand Teton",
+      "visitors": 3417106
+    },
+    {
+      "year": 2023,
+      "park": "Olympic",
+      "visitors": 2947503
+    },
+    {
+      "year": 2023,
+      "park": "Glacier",
+      "visitors": 2933616
+    },
+    {
+      "year": 2024,
+      "park": "Great Smoky Mountains",
+      "visitors": 12191834
+    },
+    {
+      "year": 2024,
+      "park": "Zion",
+      "visitors": 4946592
+    },
+    {
+      "year": 2024,
+      "park": "Yellowstone",
+      "visitors": 4744353
+    },
+    {
+      "year": 2024,
+      "park": "Grand Canyon",
+      "visitors": 4919163
+    },
+    {
+      "year": 2024,
+      "park": "Yosemite",
+      "visitors": 4121807
+    },
+    {
+      "year": 2024,
+      "park": "Rocky Mountain",
+      "visitors": 4154349
+    },
+    {
+      "year": 2024,
+      "park": "Acadia",
+      "visitors": 3961661
+    },
+    {
+      "year": 2024,
+      "park": "Grand Teton",
+      "visitors": 3628222
+    },
+    {
+      "year": 2024,
+      "park": "Olympic",
+      "visitors": 3717267
+    },
+    {
+      "year": 2024,
+      "park": "Glacier",
+      "visitors": 3208755
+    },
+    {
+      "year": 2025,
+      "park": "Great Smoky Mountains",
+      "visitors": 11527939
+    },
+    {
+      "year": 2025,
+      "park": "Zion",
+      "visitors": 4984525
+    },
+    {
+      "year": 2025,
+      "park": "Yellowstone",
+      "visitors": 4762988
+    },
+    {
+      "year": 2025,
+      "park": "Grand Canyon",
+      "visitors": 4430653
+    },
+    {
+      "year": 2025,
+      "park": "Yosemite",
+      "visitors": 4278413
+    },
+    {
+      "year": 2025,
+      "park": "Rocky Mountain",
+      "visitors": 4171431
+    },
+    {
+      "year": 2025,
+      "park": "Acadia",
+      "visitors": 4079318
+    },
+    {
+      "year": 2025,
+      "park": "Grand Teton",
+      "visitors": 3800648
+    },
+    {
+      "year": 2025,
+      "park": "Olympic",
+      "visitors": 3584187
+    },
+    {
+      "year": 2025,
+      "park": "Glacier",
+      "visitors": 3136557
+    }
+  ]
+}
